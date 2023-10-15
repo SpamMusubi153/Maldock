@@ -3,7 +3,9 @@ A Beginner-Friendly Library for Getting Started with Machine Learning Applicatio
 
 ## Have you ever had to step away from your computer in a library, coffee shop, or another type of busy public space?
 Did you lock it?
+
 If Your Answer is: ✅, Nice Job!
+
 If Your Answer is ❌, Stay safe!
 
 Unfortunately, a locked computer doesn’t do much to deter someone from grabbing your device and running. Your computer has no way of figuring out what is happening, and calling for help from the people around it.
